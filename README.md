@@ -7,16 +7,21 @@ korzystających z packet radio, AX.25 oraz transportu KISS. Projekty są
 rozdzielone na osobne repozytoria, ale mają wspólną nazwę, branding i kierunek
 rozwoju.
 
-## Projekty
+## Aktualny stan
 
-| Projekt | Opis | Repozytorium |
-| --- | --- | --- |
-| **UPR Node** | Node packet radio dla Linuksa i Raspberry Pi. Obsługuje AX.25, KISS/TCP, podstawowe sesje, digipeater oraz konfigurację przez panel WWW. | Link zostanie uzupełniony |
-| **UPR Station** | Samodzielna stacja packet radio z backendem, panelem WWW oraz wariantem desktopowym. Obejmuje m.in. sesje AX.25, KISS, MailBox, beacony, MHeard, digipeater i YAPP. | Link zostanie uzupełniony |
-| **UPR Terminal** | Terminal connected-mode packet radio dla AX.25 przez KISS/TCP lub port szeregowy, z pełnoekranowym interfejsem tekstowym i obsługą wielu sesji. | Link zostanie uzupełniony |
-| **UPR UI Template** | Referencyjny, niezależny od frameworka szablon interfejsu WWW używany jako punkt wyjścia dla aplikacji rodziny UPR. | Link zostanie uzupełniony |
-| **UPR Branding** | Wspólne zasady identyfikacji wizualnej, logo i sposób oznaczania aplikacji należących do rodziny UPR. | Link zostanie uzupełniony |
-| **Dokumentacja packet radio** | Materiały dotyczące AX.25, KISS, TNC, connected mode, digipeatingu i diagnostyki, oddzielone od dokumentacji konkretnych aplikacji. | Link zostanie uzupełniony |
+Na chwilę obecną żadne repozytorium aplikacji rodziny UPR nie jest jeszcze
+opublikowane. Ta strona będzie uzupełniana dopiero wtedy, gdy dany projekt
+zostanie przeznaczony do publikacji i będzie miał potwierdzony adres repozytorium.
+
+| Projekt | Aktualny stan |
+| --- | --- |
+| **UPR Station** | Główny rozwijany projekt. Obecnie powstaje jego funkcjonalna wersja stacji packet radio. |
+| **UPR Node** | Wczesny zalążek projektu. Zakres i forma publikacji nie są jeszcze ustalone. |
+| **UPR Terminal** | Możliwy przyszły, osobny projekt wydzielony z UPR Station. Nie jest jeszcze opublikowany ani ostatecznie zatwierdzony. |
+
+Foldery robocze, materiały pomocnicze i projekty wewnętrzne nie są automatycznie
+traktowane jako osobne produkty ani repozytoria publiczne. Lista oraz linki będą
+aktualizowane ręcznie zgodnie z aktualną decyzją dotyczącą publikacji.
 
 ## Wspólne założenia
 
@@ -24,7 +29,7 @@ rozwoju.
 - AX.25 jest podstawą komunikacji radiowej, a KISS jednym z obsługiwanych
   sposobów komunikacji z modemem lub TNC;
 - poszczególne aplikacje mają różne role i mogą być rozwijane niezależnie;
-- wspólny branding i UI Template pomagają zachować spójność całej rodziny;
+- nazwy, podział projektów i zakres publikacji mogą zmieniać się wraz z rozwojem;
 - funkcje dostępne w konkretnym projekcie należy sprawdzać w jego własnej
   dokumentacji i pliku README.
 
@@ -51,16 +56,21 @@ operators using packet radio, AX.25 and KISS transport. The projects are kept
 in separate repositories, while sharing a common name, branding and overall
 direction.
 
-## Projects
+## Current status
 
-| Project | Description | Repository |
-| --- | --- | --- |
-| **UPR Node** | A packet radio node for Linux and Raspberry Pi. It supports AX.25, KISS/TCP, basic sessions, digipeating and web-based configuration. | Link to be added |
-| **UPR Station** | A standalone packet radio station with a backend, web panel and desktop variant. It includes AX.25 sessions, KISS, MailBox, beacons, MHeard, digipeating and YAPP. | Link to be added |
-| **UPR Terminal** | A connected-mode AX.25 packet radio terminal using KISS/TCP or a serial port, with a full-screen text interface and support for multiple sessions. | Link to be added |
-| **UPR UI Template** | A framework-neutral reference web interface used as a starting point for UPR applications. | Link to be added |
-| **UPR Branding** | Shared visual identity guidelines, logo assets and naming rules for applications in the UPR family. | Link to be added |
-| **Packet radio documentation** | Materials covering AX.25, KISS, TNCs, connected mode, digipeating and diagnostics, separated from application-specific documentation. | Link to be added |
+At this time, no application repository in the UPR family has been published.
+This page will be expanded only when a project is explicitly selected for
+publication and its repository address has been confirmed.
+
+| Project | Current status |
+| --- | --- |
+| **UPR Station** | The main active project. Its functional packet radio station version is currently under development. |
+| **UPR Node** | An early project seed. Its scope and publication form have not yet been decided. |
+| **UPR Terminal** | A possible future project split out of UPR Station. It has not been published or finally approved. |
+
+Working folders, supporting materials and internal projects are not
+automatically treated as separate products or public repositories. The list and
+links will be updated manually according to the current publication decisions.
 
 ## Shared principles
 
@@ -69,7 +79,8 @@ direction.
   supported ways to communicate with a modem or TNC;
 - individual applications have different roles and can be developed
   independently;
-- shared branding and the UI Template help keep the family consistent;
+- project names, boundaries and publication scope may change as development
+  progresses;
 - features available in a particular project should be verified in that
   project's own documentation and README.
 
