@@ -15,7 +15,7 @@ publikacji i będzie miał potwierdzony adres repozytorium.
 
 | Projekt | Aktualny stan | Repozytorium | Ostatni release do pobrania |
 | --- | --- | --- | --- |
-| **UPR Terminal** | Desktopowa aplikacja packet radio dla Windows i Linuksa, z interfejsem Tauri oraz obsługą AX.25/KISS. | [GitHub](https://github.com/SP5ME/UPR-Terminal) | [Pobierz najnowszy release](https://github.com/SP5ME/UPR-Terminal/releases/latest) |
+| **UPR Terminal** | Desktopowa aplikacja packet radio z interfejsem Tauri dla Windows 10/11 x86-64, Windows 10 32-bit, macOS 10.15+ i Linux x86-64, z obsługą AX.25/KISS. | [GitHub](https://github.com/SP5ME/UPR-Terminal) | [Pobierz najnowszy release](https://github.com/SP5ME/UPR-Terminal/releases/latest) |
 | **UPR Station** | Serwerowa aplikacja packet radio dla Linuksa, bez GUI systemowego, z panelem WWW oraz obsługą AX.25/KISS. | [GitHub](https://github.com/SP5ME/UPR-Station) | [Pobierz najnowszy release](https://github.com/SP5ME/UPR-Station/releases/latest) |
 | **UPR Node** | Wczesny zalążek projektu. Zakres i forma publikacji nie są jeszcze ustalone. | Jeszcze nieopublikowany | — |
 
@@ -64,7 +64,7 @@ selected for publication and its repository address has been confirmed.
 
 | Project | Current status | Repository | Latest release download |
 | --- | --- | --- | --- |
-| **UPR Terminal** | A desktop packet radio application for Windows and Linux, with a Tauri interface and AX.25/KISS support. | [GitHub](https://github.com/SP5ME/UPR-Terminal) | [Download latest release](https://github.com/SP5ME/UPR-Terminal/releases/latest) |
+| **UPR Terminal** | A desktop packet radio application with a Tauri interface for Windows 10/11 x86-64, Windows 10 32-bit, macOS 10.15+ and Linux x86-64, with AX.25/KISS support. | [GitHub](https://github.com/SP5ME/UPR-Terminal) | [Download latest release](https://github.com/SP5ME/UPR-Terminal/releases/latest) |
 | **UPR Station** | A Linux server application for packet radio, without a system GUI, with a web panel and AX.25/KISS support. | [GitHub](https://github.com/SP5ME/UPR-Station) | [Download latest release](https://github.com/SP5ME/UPR-Station/releases/latest) |
 | **UPR Node** | An early project seed. Its scope and publication form have not yet been decided. | Not published yet | — |
 
