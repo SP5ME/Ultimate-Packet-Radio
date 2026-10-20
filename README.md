@@ -13,11 +13,11 @@ Opublikowane są obecnie repozytoria `UPR Station` i `UPR Terminal`. Ta strona
 będzie uzupełniana dopiero wtedy, gdy dany projekt zostanie przeznaczony do
 publikacji i będzie miał potwierdzony adres repozytorium.
 
-| Projekt | Aktualny stan | Repozytorium / pobieranie |
-| --- | --- | --- |
-| **UPR Station** | Główny rozwijany projekt. Obecnie powstaje jego funkcjonalna wersja stacji packet radio. | [GitHub](https://github.com/SP5ME/UPR-Station) |
-| **UPR Terminal** | Opublikowany osobny projekt terminala packet radio. | [GitHub](https://github.com/SP5ME/UPR-Terminal) |
-| **UPR Node** | Wczesny zalążek projektu. Zakres i forma publikacji nie są jeszcze ustalone. | Jeszcze nieopublikowany |
+| Projekt | Aktualny stan | Repozytorium | Ostatni release do pobrania |
+| --- | --- | --- | --- |
+| **UPR Station** | Główny rozwijany projekt. Obecnie powstaje jego funkcjonalna wersja stacji packet radio. | [GitHub](https://github.com/SP5ME/UPR-Station) | Brak release’u; [strona wydań](https://github.com/SP5ME/UPR-Station/releases) |
+| **UPR Terminal** | Opublikowany osobny projekt terminala packet radio. | [GitHub](https://github.com/SP5ME/UPR-Terminal) | Brak release’u; [strona wydań](https://github.com/SP5ME/UPR-Terminal/releases) |
+| **UPR Node** | Wczesny zalążek projektu. Zakres i forma publikacji nie są jeszcze ustalone. | Jeszcze nieopublikowany | — |
 
 Foldery robocze, materiały pomocnicze i projekty wewnętrzne nie są automatycznie
 traktowane jako osobne produkty ani repozytoria publiczne. Lista oraz linki będą
@@ -62,11 +62,11 @@ The `UPR Station` and `UPR Terminal` application repositories are currently
 published. This page will be expanded only when a project is explicitly
 selected for publication and its repository address has been confirmed.
 
-| Project | Current status | Repository / download |
-| --- | --- | --- |
-| **UPR Station** | The main active project. Its functional packet radio station version is currently under development. | [GitHub](https://github.com/SP5ME/UPR-Station) |
-| **UPR Terminal** | A published standalone packet radio terminal project. | [GitHub](https://github.com/SP5ME/UPR-Terminal) |
-| **UPR Node** | An early project seed. Its scope and publication form have not yet been decided. | Not published yet |
+| Project | Current status | Repository | Latest release download |
+| --- | --- | --- | --- |
+| **UPR Station** | The main active project. Its functional packet radio station version is currently under development. | [GitHub](https://github.com/SP5ME/UPR-Station) | No release yet; [releases page](https://github.com/SP5ME/UPR-Station/releases) |
+| **UPR Terminal** | A published standalone packet radio terminal project. | [GitHub](https://github.com/SP5ME/UPR-Terminal) | No release yet; [releases page](https://github.com/SP5ME/UPR-Terminal/releases) |
+| **UPR Node** | An early project seed. Its scope and publication form have not yet been decided. | Not published yet | — |
 
 Working folders, supporting materials and internal projects are not
 automatically treated as separate products or public repositories. The list and
